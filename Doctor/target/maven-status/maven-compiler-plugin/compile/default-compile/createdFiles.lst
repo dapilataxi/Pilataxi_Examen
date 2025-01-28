@@ -1,0 +1,3 @@
+com\espe\doctor\repositories\DoctorRepository.class
+com\espe\doctor\models\entities\Doctor.class
+com\espe\doctor\DoctorApplication.class
